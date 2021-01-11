@@ -7,4 +7,4 @@ checks index where the cumulative distribution is closest to each value, then sa
 associated with the selected index. In this way, a distribution of N values is built up that
 has a distribution matched to the input function y. 
 
-Usage examples can be found in the jupyter notebook included in this repo - "CDF_sampler_exampples.ipynb"
+[Usage examples can be found in the jupyter notebook included in this repo](CDF_sampler_exampples.ipynb)
